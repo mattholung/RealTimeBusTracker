@@ -3,4 +3,4 @@ This was one of my assignments for MIT XPRO course for Week 9. I am still workin
 ## Miami Bus Tracker for Palmetto Bay and Pinecrest
 The markers represent the bus stops along its route as it travels up the US1 South Dixie Highway.
 ## Future Improvements
-I plan on adding a list that displays the the location of the bus as it travels along its route, as well as the most recent stop that it has made.
+I plan on adding a couple of neat features to this. Alterations to the mapanimation.js file need to be made to have the button flash at a different speed than the bus from stop to stop. I also need to modify the styles.css and index.html file in order to add some styling and classes as I play with colors and fonts on the page to make it more unique and engaging.
